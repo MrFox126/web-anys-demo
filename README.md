@@ -16,4 +16,4 @@ pip install -r requirements.txt
 python3 web-anys-demo.py
 ```
 
-![SMS Bomber Screenshot](Screenshot_2026-06-30_08-31-12.png)
+  ![SMS Bomber Screenshot](Screenshot_2026-06-30_08-31-12.png)
